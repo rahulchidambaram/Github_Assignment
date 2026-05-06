@@ -195,6 +195,53 @@ This assessment covers:
 
 These are essential skills for real-world software development and collaboration using Git and GitHub.
 
-## Outputs for the above tasks
+# 📸 Output Screenshots
+
+---
+
+## 🔹 Question 1
+
+<div align="center">
+  <img src="Output_screenshots/Question1/1.png" width="45%" />
+  <img src="Output_screenshots/Question1/2.png" width="45%" />
+</div>
+
+---
+
+## 🔹 Question 2
+
+<div align="center">
+  <img src="Output_screenshots/Question2/1.png" width="45%" />
+  <img src="Output_screenshots/Question2/2.png" width="45%" />
+</div>
+
+---
+
+## 🔹 Question 3
+
+<div align="center">
+  <img src="Output_screenshots/Question3/1.png" width="30%" />
+  <img src="Output_screenshots/Question3/2.png" width="30%" />
+  <img src="Output_screenshots/Question3/3.png" width="30%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="Output_screenshots/Question3/4.png" width="30%" />
+  <img src="Output_screenshots/Question3/5.png" width="30%" />
+</div>
+
+---
+
+## 🔹 Question 4
+
+<div align="center">
+  <img src="Output_screenshots/Question4/2.png" width="30%" />
+  <img src="Output_screenshots/Question4/3.png" width="30%" />
+  <img src="Output_screenshots/Question4/final.png" width="30%" />
+</div>
+
+---
 
 
