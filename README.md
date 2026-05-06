@@ -136,6 +136,50 @@ git branch
 git branch dummy-branch
 
 #Force deleting a branch
-git branch -D dummy-branch
- 
+git branch -D dummy-branch 
+```
+
+**Question 4: Handling Errors (Stash, Reset, Revert)**
+
+## Objective
+Learn how to manage mistakes and unfinished work.
+
+## Scenario
+You are in the middle of development but need to handle urgent changes and fix mistakes.
+
+## Steps
+```
+#Make changes to app.py but do NOT commit
+echo "print('work in progress')" > app.py
+
+#Stash the changes (include untracked files)
+git stash -u
+
+#Check the stash list
+git stash list
+
+#Apply the stashed changes back
+git stash apply
+
+#Commit the changes
+git add .
+git commit -m "stashed changes applied"
+
+#Make another commit with incorrect code
+echo "print('wrong code!!! oops')" > app.py
+git add app.py
+git commit -m "wrong code"
+
+#Undo the last commit using reset
+git reset --soft HEAD~1
+
+#Make another commit
+git add .
+git commit -m "Fixed previous mistake"
+
+#Undo a commit using revert (create a new reversing commit)
+git revert HEAD
+
+#Verify the commit history
+git log --oneline
 ```
