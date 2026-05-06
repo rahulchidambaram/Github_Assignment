@@ -7,7 +7,7 @@ This repository demonstrates core Git and GitHub workflows including:
 4. Handling errors using stash, reset, and revert
 
 # 📦 GitHub Assignment 
-# Question 1: Project Initialization & First Push**
+# Question 1: Project Initialization & First Push
 
 ## Objective
 Set up a new Git project and push it to a remote repository.
