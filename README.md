@@ -194,3 +194,7 @@ This assessment covers:
 * Error handling techniques
 
 These are essential skills for real-world software development and collaboration using Git and GitHub.
+
+## Outputs for the above tasks
+
+
