@@ -54,7 +54,7 @@ git push -u origin main
 
 ```
 
-**Question 2: Working with Changes & History**
+# Question 2: Working with Changes & History
 
 ## Objective
 Track code changes and manage commit history properly.
@@ -96,7 +96,7 @@ git log
 git log --oneline
 ```
 
-**Question 3: Branching & Feature Development**
+# Question 3: Branching & Feature Development
 
 ## Objective
 Work with branches and manage feature development.
@@ -139,7 +139,7 @@ git branch dummy-branch
 git branch -D dummy-branch 
 ```
 
-**Question 4: Handling Errors (Stash, Reset, Revert)**
+# Question 4: Handling Errors (Stash, Reset, Revert)
 
 ## Objective
 Learn how to manage mistakes and unfinished work.
