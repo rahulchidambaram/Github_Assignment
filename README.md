@@ -1,4 +1,4 @@
-# 📖 Overview
+# Overview
 This repository demonstrates core Git and GitHub workflows including:
 
 1. Repository initialization
@@ -6,7 +6,7 @@ This repository demonstrates core Git and GitHub workflows including:
 3. Branching and merging
 4. Handling errors using stash, reset, and revert
 
-# 📦 GitHub Assignment 
+# GitHub Assignment 
 # Question 1: Project Initialization & First Push
 
 ## Objective
@@ -184,7 +184,7 @@ git revert HEAD
 git log --oneline
 ```
 
-# 🚀 Conclusion
+# Conclusion
 
 This assessment covers:
 
